@@ -4,7 +4,7 @@ I'm Tamara Davis, a Professor of Astrophysics at the [University of Queensland](
 
 I study cosmology, so I'm trying to understand the universe as a whole -- how it began, how it will end, and everything in between.  In particular I'm interested in studying the dark side of the universe, all the things we cannot see or touch, like dark matter and dark energy. 
 
-- 📫 How to reach me: [email](tamarad@physics.uq.edu.au) or Twitter [@tamarastro](https://twitter.com/tamarastro)
+- 📫 How to reach me: [email](mailto:tamarad@physics.uq.edu.au) or Twitter [@tamarastro](https://twitter.com/tamarastro)
 - 😄 Pronouns: She/her
 
 ## About me
